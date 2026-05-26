@@ -14,5 +14,4 @@ This project is focused on recreating the frontend design of Spotify for learnin
 - HTML5
 - CSS3
 ## 🌐 Live Demo
-[Click here to view the live website]
-( https://mdkaif-eng.github.io/Spotify-clone/ )
+[Click here to view the live website]( https://mdkaif-eng.github.io/Spotify-clone/ )
